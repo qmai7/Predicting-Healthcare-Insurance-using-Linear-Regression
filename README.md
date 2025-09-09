@@ -1,2 +1,4 @@
-# Regression-Example
-The corresponding repo to upcoming video on a real-world regression problem predicting health insurance charges.
+# Linear Regression Problem
+real-world regression practice problem predicting health insurance charges on DataCamp
+
+
